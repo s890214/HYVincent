@@ -1,4 +1,16 @@
 #Julie Project Version
+
+> **第三方模块声明**
+>
+> 本项目为个人学习用 Demo，除本人编写的代码外，包含以下第三方模块，版权归各自原作者所有：
+>
+> | 模块 | 标识 / 来源 | 上游许可证 |
+> |---|---|---|
+> | `libqrcode` | `com.xys.libzxing`（libZXing 二维码封装） | 上游未声明 |
+> | `threedlayout` | [githubwing/ThreeDLayout](https://github.com/githubwing/ThreeDLayout) | 上游未声明 |
+>
+> 上述模块仅用于学习研究，未用于商业分发。如原作者对使用方式有异议，将移除对应模块。本人编写的其余代码默认保留所有权利。
+
 </br></br>最近项目发布了新的版本，闲来无事，整理了一下平时收集的东西，算是做了个小项目，都是基础的东西，留着以后可以用，也能看看..免得再找..
 ###
 
